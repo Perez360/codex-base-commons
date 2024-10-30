@@ -1,0 +1,36 @@
+# Maven directories
+target/
+*.log
+
+# IDE files
+.idea/
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+*.db
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+*.ipr
+*.iws
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.user
+*.swp
+
+# Local configuration files
+local.properties
+*.lock
+
+target
